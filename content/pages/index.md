@@ -16,7 +16,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: I'm programme
+    title: I'm programmer
     align: center
     grid_items:
       - image: images/logo-1.svg
