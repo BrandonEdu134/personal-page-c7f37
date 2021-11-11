@@ -15,18 +15,6 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-  - type: features_section
-    features:
-      - title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds
-          into my day-to-day rhythm, and the natural flow of my day.”
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
-        image: /images/icon-3.svg
-        image_alt: Ursula Gurnmeister photo
-        media_position: left
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: none
 seo:
   title: Stackbit Startup Theme
   description: The preview of the Startup theme
