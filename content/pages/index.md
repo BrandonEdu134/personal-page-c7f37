@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: ¡Welcome!
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: 'Hi, Can We Be Friends? :)'
     actions:
       - label: Try for free
         url: /pricing
