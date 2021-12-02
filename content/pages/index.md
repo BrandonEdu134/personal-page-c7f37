@@ -15,6 +15,7 @@ sections:
     background_image_position: right top
     background_image_size: contain
     background_image_opacity: 20
+    section_id: BienvenidoSect
   - subtitle: lorem-ipsum
     actions: []
     grid_items: []
