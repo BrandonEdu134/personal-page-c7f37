@@ -39,7 +39,7 @@ sections:
     actions: []
     grid_items:
       - title: Proyecto para empezar
-        subtitle: lorem-ipsum
+        subtitle: Se puede trabajar con dos cosas a la vez
         title_align: left
         content: >
           ***El primer proyecto que Desarrolle, fue cuando estaba trabajando en
