@@ -44,7 +44,7 @@ sections:
         content: >
           ***El primer proyecto que Desarrolle, fue cuando estaba trabajando en
           la Universidad***
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
