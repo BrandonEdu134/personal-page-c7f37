@@ -38,7 +38,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Proyecto para empezar
         subtitle: lorem-ipsum
         title_align: left
         content: >-
