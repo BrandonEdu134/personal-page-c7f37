@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Bienvenido
-    subtitle: Alcanza el éxito
+    subtitle: Change your mind
     actions: []
     image_alt: Hero section placeholder image
     media_position: bottom
