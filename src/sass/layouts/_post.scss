@@ -53,6 +53,6 @@
 
 @include media-breakpoint-down(lg) {
 	.post__hero {
-		max-width: container-max-width(medium);
+		max-width: container-max-width(Large);
 	}
 }
