@@ -14,7 +14,7 @@ sections:
     background_image: images/background.svg
     background_image_position: center top
     background_image_size: auto
-    background_image_opacity: 60
+    background_image_opacity: 40
   - title: 'Hi, my name is Brandon'
     subtitle: lorem-ipsum
     actions: []
