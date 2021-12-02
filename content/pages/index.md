@@ -40,7 +40,7 @@ sections:
     grid_items:
       - title: Proyecto para empezar
         subtitle: Se puede trabajar con dos cosas a la vez
-        title_align: left
+        title_align: center
         content: >
           ***El primer proyecto que Desarrolle, fue cuando estaba trabajando en
           la Universidad***
