@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Bienvenido
-    subtitle: ¡El conocimiento es podersin!
+    subtitle: Alcanza el éxito
     actions: []
     image_alt: Hero section placeholder image
     media_position: bottom
