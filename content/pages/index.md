@@ -11,7 +11,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: primary
-    background_image: images/background.svg
+    background_image: /images/formal1.png
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 20
