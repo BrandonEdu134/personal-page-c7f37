@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Bienvenido
-    subtitle: 'Hi, Can We Be Friends? :)'
+    subtitle: ¡El conocimiento es podersin!
     actions: []
     image_alt: Hero section placeholder image
     media_position: bottom
