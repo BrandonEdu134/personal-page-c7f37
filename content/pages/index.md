@@ -15,7 +15,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 20
-  - title: 'Hi, my name is Brandon'
+  - title: Hola
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
