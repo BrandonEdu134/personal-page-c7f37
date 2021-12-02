@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: ¡Welcome!
+    title: Bienvenido
     subtitle: 'Hi, Can We Be Friends? :)'
     actions: []
     image_alt: Hero section placeholder image
