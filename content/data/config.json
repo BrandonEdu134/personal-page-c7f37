@@ -6,7 +6,6 @@
     "palette": "blue",
     "mode": "light",
     "base_font": "serif",
-    //"position": "fixed",
     "header": {
         "title": "Startup",
         "logo": "/images/Betz2.png",
