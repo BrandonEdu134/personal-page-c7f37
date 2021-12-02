@@ -13,7 +13,7 @@ sections:
     background_color: primary
     background_image: /images/formal1.png
     background_image_position: right top
-    background_image_size: cover
+    background_image_size: contain
     background_image_opacity: 20
   - subtitle: lorem-ipsum
     actions: []
