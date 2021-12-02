@@ -158,8 +158,6 @@ models:
           type: model
           models:
             - action
-      - name: ''
-        type: string
   footer:
     type: object
     label: Footer configuration
